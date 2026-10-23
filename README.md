@@ -243,19 +243,11 @@ Windows-OS-Deployment-Configuration-Lab/
 └── [scripts/]          # Optional: PowerShell scripts used in the lab
 ```
 
-## Future Improvements
 
-- [ ] Automate the full baseline with a PowerShell script
-- [ ] Add audit policy configuration (`auditpol`)
-- [ ] Enforce settings through Group Policy or Intune
-- [ ] Add BitLocker drive encryption
-- [ ] Map controls to CIS Benchmarks for Windows
-- [ ] Integrate Microsoft Defender for Endpoint
-- [ ] Expand to a domain-joined Active Directory environment
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). *(Change this to match your preference, or remove this section.)*
+This project is licensed under the [MIT License](LICENSE). 
 
 ---
 
