@@ -259,4 +259,5 @@ This project is licensed under the [MIT License](LICENSE). *(Change this to matc
 
 ---
 
-**Author:** [Your Name] · [GitHub: @code-with-rv](https://github.com/code-with-rv)
+**Author:** Ravi Kumar
+· [GitHub: @code-with-rv](https://github.com/code-with-rv)
